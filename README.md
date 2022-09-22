@@ -1,5 +1,6 @@
 # ajax
-```
+
+```js
 import ajax from "./app.js";
 
 ajax({
