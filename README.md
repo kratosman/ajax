@@ -1,4 +1,4 @@
-# ajax
+# AJAX
 
 ```js
 import ajax from "./app.js";
